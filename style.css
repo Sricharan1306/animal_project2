@@ -1,0 +1,32 @@
+
+#main_heading{
+    background-color: cadetblue;
+    font-family: 'Roboto Slab', serif;
+}
+body{
+    background-color: burlywood;
+}
+.main_pictures{
+  
+   
+    background-color: rgb(230, 208, 15);
+}
+#movies{
+    background-color: lightcoral;
+}
+#tiger{
+    background-color: lightseagreen;
+}
+#information2{
+    background-color: magenta;
+}
+#get,#get2{
+    font-family: 'Readex Pro', sans-serif;
+}
+#take{
+    font-family: 'Meow Script', cursive;
+    width:550px;
+}
+#get3,#get4,#get5,#get6{
+    font-family: 'Roboto Slab', serif;
+}
